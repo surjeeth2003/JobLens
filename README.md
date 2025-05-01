@@ -6,7 +6,6 @@
 - Tailored recommendations
 
 This project aims to help job seekers optimize their resumes for specific roles and help recruiters find better-matching profiles.
-
 ---
 
 ## 🌐 Live Demo
